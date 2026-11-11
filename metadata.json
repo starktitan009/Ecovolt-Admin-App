@@ -1,0 +1,6 @@
+{
+  "name": "EcoVolt",
+  "description": "Smart solar-powered recycling, EcoPoints rewards, and mobile charging ecosystem for campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
